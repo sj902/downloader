@@ -1,2 +1,2 @@
 ### Usage
-go run main.go <url> <path>
+```go run main.go <url> <path>```
